@@ -1,0 +1,52 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 264 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.4.6:3000/
+11:01:26 PM [vite] warning: The character ">" is not valid inside a JSX element
+13 |              </p>
+14 |              <ul className="mt-6 space-y-3 text-slate-700" style={{ fontFamily: 'Sofia Pro, Inter, system-ui, sans-serif' }}>
+15 |                <li>• Pasar haji & umrah Indonesia > 1 juta keberangkatan per tahun dengan nilai ekonomi miliaran dolar.</li>
+   |                                                     ^
+16 |                <li>• Monetisasi multi-sisi: langganan SaaS, layanan premium, dan marketplace mitra.</li>
+17 |                <li>• Strategi go-to-market melalui asosiasi biro, komunitas masjid, dan kemitraan pelatihan muthawwif.</li>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Investor.jsx
+11:01:26 PM [vite] warning: The character ">" is not valid inside a JSX element
+33 |                  <div>
+34 |                    <dt className="text-sm text-slate-500" style={{ fontFamily: 'Sofia Pro, Inter, system-ui, sans-serif' }}>TAM</dt>
+35 |                    <dd className="text-3xl font-bold text-slate-900" style={{ fontFamily: 'Kufam, system-ui, sans-serif' }}>>$3B</dd>
+   |                                                                                                                             ^
+36 |                  </div>
+37 |                  <div>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Investor.jsx
+11:01:27 PM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline
+11:01:27 PM [vite] ✨ optimized dependencies changed. reloading
+The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+11:01:28 PM [vite] warning: The character ">" is not valid inside a JSX element
+13 |              </p>
+14 |              <ul className="mt-6 space-y-3 text-slate-700" style={{ fontFamily: 'Sofia Pro, Inter, system-ui, sans-serif' }}>
+15 |                <li>• Pasar haji & umrah Indonesia > 1 juta keberangkatan per tahun dengan nilai ekonomi miliaran dolar.</li>
+   |                                                     ^
+16 |                <li>• Monetisasi multi-sisi: langganan SaaS, layanan premium, dan marketplace mitra.</li>
+17 |                <li>• Strategi go-to-market melalui asosiasi biro, komunitas masjid, dan kemitraan pelatihan muthawwif.</li>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Investor.jsx
+11:01:28 PM [vite] warning: The character ">" is not valid inside a JSX element
+33 |                  <div>
+34 |                    <dt className="text-sm text-slate-500" style={{ fontFamily: 'Sofia Pro, Inter, system-ui, sans-serif' }}>TAM</dt>
+35 |                    <dd className="text-3xl font-bold text-slate-900" style={{ fontFamily: 'Kufam, system-ui, sans-serif' }}>>$3B</dd>
+   |                                                                                                                             ^
+36 |                  </div>
+37 |                  <div>
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/Investor.jsx
